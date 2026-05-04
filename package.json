@@ -1,0 +1,24 @@
+{
+  "name": "lfosdh",
+  "version": "1.0.0",
+  "description": "Static HTML website with Vercel Web Analytics",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samueld79/LFOSDH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samueld79/LFOSDH/issues"
+  },
+  "homepage": "https://github.com/Samueld79/LFOSDH#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
